@@ -1,6 +1,6 @@
 # About this Repository
-This is a repository for recording my solutions to LeetCode 
-problems, both for myself and to share.
+This is a repository for recording my (Willem Bruce Krayenhoff's) 
+solutions to LeetCode problems, both for myself and to share.
 
 
 ## 2021-12-29
