@@ -1,5 +1,5 @@
 """
-From: https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+From: https://leetcode.com/problems/rotate-image/submissions/
 """
 
 import math
