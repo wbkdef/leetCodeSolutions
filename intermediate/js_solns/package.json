@@ -1,0 +1,11 @@
+{
+  "name": "js_solns",
+  "version": "1.0.0",
+  "description": "Solutions to intermediate Leet Code problems in Javascript",
+  "main": "2022-05-29_Recover_Binary_Search_Tree.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruce Krayenhoff",
+  "license": "ISC"
+}
